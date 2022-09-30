@@ -73,12 +73,6 @@ div.campo > label {
     display: none;
 }
 
-span.material-symbols-outlined {
-   color: #512072;
-   
-}
-
-
 form > input[type=submit] {
     display: block;
     font-size: 1em;
